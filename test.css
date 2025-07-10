@@ -1,0 +1,43 @@
+html{
+    margin: 0px;
+    padding: 0px;
+    }
+body{
+    margin: 0px;
+    padding: 0px;
+    }
+header h1,header h2{
+    margin: 0px;
+    padding: 0px;
+    }
+header {background-color: #32a852;}
+#header{
+    width:700px;
+    height:100px;
+    margin: 0px;
+    padding: 0px;    
+    text-align: center;
+    }
+div#content {
+        background-color: #99cc33;
+        width: 700px;
+        overflow: hidden;
+        }
+nav {background-color: #a2d26e;}
+    #main{
+        float: left;
+        width:150px;
+        height:400px;
+        }
+div#main {background-color: #e2d26e;}
+#main{
+    float: right;
+    width:500px;
+    height:400px;
+    }
+footer {background-color: #c12020;}
+#footer{
+    width:700px;
+    height:300px;
+    overflow:hidden;
+    }
