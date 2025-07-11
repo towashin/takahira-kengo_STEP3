@@ -11,7 +11,7 @@ header h1,header h2{
     padding: 0px;
     }
 header {background-color: #32a852;}
-#header{
+header{
     width:700px;
     height:100px;
     margin: 0px;
@@ -36,7 +36,7 @@ div#main {background-color: #e2d26e;}
     height:400px;
     }
 footer {background-color: #c12020;}
-#footer{
+footer{
     width:700px;
     height:300px;
     overflow:hidden;
